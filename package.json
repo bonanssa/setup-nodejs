@@ -1,0 +1,27 @@
+{
+    "name": "setup-nodejs",
+    "version": "0.0.1",
+    "description": "projeto de demonstração",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bonanssa/setup-nodejs.git"
+    },
+    "keywords": [
+        "nodejs",
+        "express",
+        "demo"
+    ],
+    "author": "Alex Souza <souzzalex@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/bonanssa/setup-nodejs/issues"
+    },
+    "homepage": "https://github.com/bonanssa/setup-nodejs#readme",
+    "dependencies": {
+        "express": "^4.18.1"
+    }
+}
